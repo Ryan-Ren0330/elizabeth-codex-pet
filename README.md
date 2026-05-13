@@ -15,7 +15,8 @@ The original approved set.
 A second set with classic Elizabeth moments:
 
 - walking in the rain with a red umbrella
-- holding a sign that says 「お待ちください」
+- active processing state holding a sign that says 「お待ちください」
+- waiting state using the small busy pose
 - wigged Elizabeth holding the 「ヅラじゃない / 桂だ！」 sign
 
 ![Elizabeth Classic contact sheet](preview/classic/contact-sheet.png)
