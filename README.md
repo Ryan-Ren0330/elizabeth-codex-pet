@@ -44,17 +44,6 @@ Then open Codex:
 3. Select **Elizabeth** or **Elizabeth Classic**.
 4. Run `/pet` or **Wake Pet** from the command menu.
 
-## Files
-
-- `pets/elizabeth/` contains the original pet package.
-- `pets/elizabeth-classic/` contains the second classic-action pet package.
-- `preview/original/contact-sheet.png` previews the original set.
-- `preview/classic/contact-sheet.png` previews the classic set.
-- `preview/original/gifs/` contains one GIF per original animation state.
-- `preview/classic/gifs/` contains one GIF per classic animation state.
-- `preview/original/screenshots/` contains JPG screenshots for sharing where GIFs are not supported.
-- `preview/classic/screenshots/` contains JPG screenshots for sharing where GIFs are not supported.
-
 ## License
 
 MIT
