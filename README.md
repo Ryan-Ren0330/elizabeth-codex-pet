@@ -15,11 +15,9 @@ The original approved set.
 A second set with classic Elizabeth moments:
 
 - walking in the rain with a red umbrella
-- idle loop where Elizabeth briefly holds a side 「なんでやねん」 placard
 - active processing state holding a sign that says 「お待ちください」
 - waiting state using the small busy pose
 - fixed rounded-head waving with Elizabeth's normal round-eyed expression
-- stronger crouch-and-hop jumping frames with a narrower costume hem
 - failed/crying state uses round or closed eyes with small tear beads beside the eyes
 - wigged Elizabeth holding the 「ヅラじゃない / 桂だ！」 sign
 
