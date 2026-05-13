@@ -15,6 +15,7 @@ The original approved set.
 A second set with classic Elizabeth moments:
 
 - walking in the rain with a red umbrella
+- corrected idle eyes with only round-eyed frames and a single blink
 - active processing state holding a sign that says 「お待ちください」
 - waiting state using the small busy pose
 - fixed rounded-head waving with Elizabeth's normal round-eyed expression
