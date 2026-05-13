@@ -2,6 +2,12 @@
 
 Elizabeth is a custom animated pet for the Codex desktop app, based on Elizabeth from *Gintama*.
 
+This version includes classic Elizabeth moments:
+
+- walking in the rain with a red umbrella
+- holding a sign that says 「お待ちください」
+- wigged Elizabeth holding the 「ヅラじゃない / 桂だ！」 sign
+
 ![Elizabeth animation contact sheet](preview/contact-sheet.png)
 
 中文说明见 [README.zh-CN.md](README.zh-CN.md).
@@ -11,7 +17,7 @@ Elizabeth is a custom animated pet for the Codex desktop app, based on Elizabeth
 Clone this repository into your Codex pets folder:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/elizabeth-codex-pet.git ~/.codex/pets/elizabeth
+git clone https://github.com/Ryan-Ren0330/elizabeth-codex-pet.git ~/.codex/pets/elizabeth
 ```
 
 Then open Codex:
