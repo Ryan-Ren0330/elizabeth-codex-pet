@@ -52,6 +52,8 @@ Then open Codex:
 - `preview/classic/contact-sheet.png` previews the classic set.
 - `preview/original/gifs/` contains one GIF per original animation state.
 - `preview/classic/gifs/` contains one GIF per classic animation state.
+- `preview/original/screenshots/` contains JPG screenshots for sharing where GIFs are not supported.
+- `preview/classic/screenshots/` contains JPG screenshots for sharing where GIFs are not supported.
 
 ## License
 

@@ -50,6 +50,8 @@ cp -R elizabeth-codex-pet/pets/elizabeth-classic ~/.codex/pets/
 - `preview/classic/contact-sheet.png` 是经典动作版动画预览图。
 - `preview/original/gifs/` 是原版每个动作单独导出的 GIF。
 - `preview/classic/gifs/` 是经典动作版每个动作单独导出的 GIF。
+- `preview/original/screenshots/` 是原版的 JPG 静态截图，适合小红书等不支持 GIF 的平台。
+- `preview/classic/screenshots/` 是经典动作版的 JPG 静态截图，适合小红书等不支持 GIF 的平台。
 
 ## 许可协议
 
