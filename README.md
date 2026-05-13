@@ -15,7 +15,7 @@ The original approved set.
 A second set with classic Elizabeth moments:
 
 - walking in the rain with a red umbrella
-- idle loop where Elizabeth pulls out a 「なんでやねん」 placard
+- idle loop where Elizabeth briefly holds a side 「なんでやねん」 placard
 - active processing state holding a sign that says 「お待ちください」
 - waiting state using the small busy pose
 - fixed rounded-head waving with Elizabeth's normal round-eyed expression
