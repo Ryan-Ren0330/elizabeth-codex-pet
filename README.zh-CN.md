@@ -48,6 +48,8 @@ cp -R elizabeth-codex-pet/pets/elizabeth-classic ~/.codex/pets/
 - `pets/elizabeth-classic/` 是第二套经典动作版宠物包。
 - `preview/original/contact-sheet.png` 是原版动画预览图。
 - `preview/classic/contact-sheet.png` 是经典动作版动画预览图。
+- `preview/original/gifs/` 是原版每个动作单独导出的 GIF。
+- `preview/classic/gifs/` 是经典动作版每个动作单独导出的 GIF。
 
 ## 许可协议
 
