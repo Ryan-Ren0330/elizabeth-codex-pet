@@ -1,35 +1,49 @@
-# Elizabeth Codex Pet
+# Elizabeth Codex Pets
 
-这是一个用于 Codex 桌面 App 的自定义动态宠物，形象基于《银魂》中的 Elizabeth。
+这是两套用于 Codex 桌面 App 的 Elizabeth 自定义动态宠物，形象基于《银魂》中的 Elizabeth。
 
-这个版本加入了几个经典动作：
+## 可选版本
+
+### Elizabeth
+
+最早确认过的原版。
+
+![Elizabeth 原版动画预览](preview/original/contact-sheet.png)
+
+### Elizabeth Classic
+
+第二套经典动作版，包含：
 
 - 雨中撑红伞漫步
 - 举牌写着「お待ちください」
 - 戴假发并举「ヅラじゃない / 桂だ！」牌子的造型
 
-![Elizabeth 动画预览](preview/contact-sheet.png)
+![Elizabeth Classic 动画预览](preview/classic/contact-sheet.png)
 
 ## 安装
 
-把这个仓库 clone 到 Codex 的自定义宠物目录：
+先 clone 仓库，再把两套 pet 文件夹复制到 Codex 的自定义宠物目录：
 
 ```bash
-git clone https://github.com/Ryan-Ren0330/elizabeth-codex-pet.git ~/.codex/pets/elizabeth
+git clone https://github.com/Ryan-Ren0330/elizabeth-codex-pet.git
+mkdir -p ~/.codex/pets
+cp -R elizabeth-codex-pet/pets/elizabeth ~/.codex/pets/
+cp -R elizabeth-codex-pet/pets/elizabeth-classic ~/.codex/pets/
 ```
 
 然后打开 Codex：
 
 1. 进入 **Settings > Appearance > Pets**。
 2. 点击 **Refresh custom pets**。
-3. 选择 **Elizabeth**。
+3. 选择 **Elizabeth** 或 **Elizabeth Classic**。
 4. 在输入框运行 `/pet`，或者从命令菜单执行 **Wake Pet**。
 
 ## 文件说明
 
-- `pet.json` 是 Codex 宠物元数据。
-- `spritesheet.webp` 是动态宠物精灵图。
-- `preview/contact-sheet.png` 是动画行预览图。
+- `pets/elizabeth/` 是原版宠物包。
+- `pets/elizabeth-classic/` 是第二套经典动作版宠物包。
+- `preview/original/contact-sheet.png` 是原版动画预览图。
+- `preview/classic/contact-sheet.png` 是经典动作版动画预览图。
 
 ## 许可协议
 
