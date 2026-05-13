@@ -17,6 +17,8 @@ A second set with classic Elizabeth moments:
 - walking in the rain with a red umbrella
 - active processing state holding a sign that says 「お待ちください」
 - waiting state using the small busy pose
+- fixed rounded-head waving with Elizabeth's normal round-eyed expression
+- failed/crying state uses round or closed eyes with small tear beads beside the eyes
 - wigged Elizabeth holding the 「ヅラじゃない / 桂だ！」 sign
 
 ![Elizabeth Classic contact sheet](preview/classic/contact-sheet.png)
